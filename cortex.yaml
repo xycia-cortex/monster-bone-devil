@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-bone-devil
+  x-cortex-tag: monster-bone-devil
+  x-cortex-custom-metadata:
+    alignment: neutral-evil
+    type: fiend
+    challenge_rating: 23
+    legendary: false
+    armor_class: 17
+    hit_points: 227
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-bone-devil
+      alias: github-token-test
